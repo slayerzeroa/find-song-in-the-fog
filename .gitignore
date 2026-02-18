@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Data artifacts
+data/index.json
+data/ann_index/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
